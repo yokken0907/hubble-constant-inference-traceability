@@ -1,5 +1,0 @@
-RECORD	CURRENT_STATUS	USE_IN_MANUSCRIPT	LIMITATION
-Original posterior-summary analysis	post-hoc released-sample outputs retained	file structure, posterior summaries, and descriptive nested shifts	original evidential wording is superseded; original likelihood and sampler were not reconstructed
-Historical documentation corrections	historical method and contract corrections retained	documents post-hoc design and source-integrity requirements	the patches did not themselves recompute the scientific result
-Paper and source identity	repository commit fixed; preserved PDF identified as arXiv v4 by full-file SHA256 equality	source/version provenance and identifier crosswalk	third-party HDF5 bytes are referenced rather than redistributed in the Jxiv-facing package
-Project-internal alternate implementation	completed within the stated scope after a blinded three-file pilot and unchanged-code 13-file extension	13/13 structural matches; 39/39 quantiles within preregistered tolerance; 12/12 Table 6 rows at published precision	not external independent replication; no original likelihood, sampler, convergence, or posterior-generation reconstruction
