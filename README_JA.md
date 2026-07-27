@@ -29,8 +29,6 @@ PERSISTENT_IDENTIFIER       = NOT_ASSIGNED
 REPOSITORY_PUBLIC_URL       = https://github.com/yokken0907/hubble-constant-inference-traceability
 ```
 
-この公開前パッケージには、未確定のJxiv DOI、Jxiv URL、公開リポジトリURL、Release URL、公開済みステータスを記載していません。実情報が確定した後にのみ [`PUBLICATION_UPDATE_GUIDE.md`](PUBLICATION_UPDATE_GUIDE.md) に従って更新します。
-
 ## 元アーカイブの識別情報
 
 ```text
