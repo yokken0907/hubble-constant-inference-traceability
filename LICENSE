@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Unless a file states otherwise, original author-generated documentation, tables, data files, figure-source data, provenance registers, and audit records in this repository are licensed under the Creative Commons Attribution 4.0 International license.
+
+You are free to share and adapt those materials for any purpose, provided that appropriate credit is given, a link to the license is supplied, and changes are indicated.
+
+License text and terms:
+https://creativecommons.org/licenses/by/4.0/
+
+Python source files under tools/ are separately licensed under the MIT License. See tools/LICENSE. Archived author-generated scripts and patches under ANALYSIS_OUTPUTS/ are retained as documentary audit records and remain under CC BY 4.0 unless an individual file states otherwise.
+
+Third-party datasets, software, publications, identifiers, and cited material are not relicensed by this notice. Third-party raw files are not intentionally redistributed in this repository; their original terms continue to apply.
