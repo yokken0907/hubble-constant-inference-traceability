@@ -26,7 +26,7 @@ REPOSITORY_RELEASE_FILES    = 121 files
 HASHED_RELEASE_FILES        = 120 / 120 VERIFIED
 MANUSCRIPT_STATUS           = PREPARED_FOR_JXIV_SUBMISSION
 PERSISTENT_IDENTIFIER       = NOT_ASSIGNED
-REPOSITORY_PUBLIC_URL       = NOT_YET_RECORDED
+REPOSITORY_PUBLIC_URL       = https://github.com/yokken0907/hubble-constant-inference-traceability
 ```
 
 この公開前パッケージには、未確定のJxiv DOI、Jxiv URL、公開リポジトリURL、Release URL、公開済みステータスを記載していません。実情報が確定した後にのみ [`PUBLICATION_UPDATE_GUIDE.md`](PUBLICATION_UPDATE_GUIDE.md) に従って更新します。
