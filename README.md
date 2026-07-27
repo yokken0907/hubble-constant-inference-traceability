@@ -31,7 +31,7 @@ PERSISTENT_IDENTIFIER       = NOT_ASSIGNED
 REPOSITORY_PUBLIC_URL       = https://github.com/yokken0907/hubble-constant-inference-traceability
 ```
 
-No Jxiv DOI, Jxiv URL, public repository URL, release URL, or publication status is asserted in this pre-publication package. Follow [`PUBLICATION_UPDATE_GUIDE.md`](PUBLICATION_UPDATE_GUIDE.md) only after the relevant identifiers actually exist.
+No Jxiv DOI, Jxiv URL. Follow [`PUBLICATION_UPDATE_GUIDE.md`](PUBLICATION_UPDATE_GUIDE.md) only after the relevant identifiers actually exist.
 
 ## Source archive identity
 
