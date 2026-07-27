@@ -1,0 +1,1 @@
+/opt/pyvenv/bin/python /mnt/data/TDCOSMO_BLIND_TABLE6_EXTENSION_RUN_PACKAGE_extracted/TDCOSMO_BLIND_TABLE6_EXTENSION_RUN_PACKAGE/FROZEN_CODE/run_audit.py --package-root /mnt/data/TDCOSMO_BLIND_TABLE6_EXTENSION_RUN_PACKAGE_extracted/TDCOSMO_BLIND_TABLE6_EXTENSION_RUN_PACKAGE --output-parent /tmp/tdcosmo_extension_818ospdw
