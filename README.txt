@@ -42,6 +42,6 @@ Publication metadata
 --------------------
 MANUSCRIPT_STATUS = PREPARED_FOR_JXIV_SUBMISSION
 PERSISTENT_IDENTIFIER = NOT_ASSIGNED
-REPOSITORY_PUBLIC_URL = NOT_YET_RECORDED
+REPOSITORY_PUBLIC_URL = https://github.com/yokken0907/hubble-constant-inference-traceability
 
 Only actual public URLs and identifiers should be added after publication.
