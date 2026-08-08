@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the associated scientific study and GitHub Release v1.7.1 as its fixed scientific traceability archive."
+title: "Dependency and Numerical Traceability in Public Hubble-Constant Inference - Traceability Archive"
+type: dataset
+version: "1.7.3"
+date-released: "2026-08-08"
+url: "https://github.com/yokken0907/hubble-constant-inference-traceability"
+repository-code: "https://github.com/yokken0907/hubble-constant-inference-traceability"
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+preferred-citation:
+  type: report
+  title: "Dependency and Numerical Traceability in Public Hubble-Constant Inference: An Integrated Audit of the Local Distance Ladder, Supernova Processing, BAO, CMB, Posterior Geometry, and Other Distance Methods"
+  authors:
+    - family-names: Yoshimura
+      given-names: Keiji
+  year: 2026
